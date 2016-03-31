@@ -21366,6 +21366,6 @@ angular.module('mm.core')
     "demo_sites": {},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://testfour.moodlehub.com"
+    "siteurl": "http://suman.moodlehub.com"
 }
 );
