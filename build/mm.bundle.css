@@ -8010,35 +8010,6 @@ input.mma-files-picker {
   opacity: 0;
   outline: none; }
 
-.mma-messages-date {
-  text-align: center;
-  margin-top: 10px; }
-
-.mma-messages-input-inset {
-  padding-top: 0;
-  padding-left: 0;
-  padding-bottom: 0; }
-
-.mma-messages-footer-note {
-  color: #444;
-  font-size: 14px;
-  text-align: center;
-  margin: 0;
-  width: 100%; }
-
-.button.mma-messages-clear-search {
-  top: 0px; }
-
-.mma-messages-discussion-container {
-  padding-bottom: 15px; }
-
-.button.button-icon.mma-messages-delete-button {
-  min-height: initial;
-  line-height: initial; }
-  .button.button-icon.mma-messages-delete-button:before {
-    font-size: 100%;
-    line-height: initial; }
-
 /* - User grades table (most of it extracted from MM1)
 -------------------------------------------------------------------------- */
 .mma-grades-table {
@@ -8098,6 +8069,35 @@ input.mma-files-picker {
       border-top: 1px solid #fff; }
   .mma-grades-table .leveleven {
     background-color: #fff; }
+
+.mma-messages-date {
+  text-align: center;
+  margin-top: 10px; }
+
+.mma-messages-input-inset {
+  padding-top: 0;
+  padding-left: 0;
+  padding-bottom: 0; }
+
+.mma-messages-footer-note {
+  color: #444;
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+  width: 100%; }
+
+.button.mma-messages-clear-search {
+  top: 0px; }
+
+.mma-messages-discussion-container {
+  padding-bottom: 15px; }
+
+.button.button-icon.mma-messages-delete-button {
+  min-height: initial;
+  line-height: initial; }
+  .button.button-icon.mma-messages-delete-button:before {
+    font-size: 100%;
+    line-height: initial; }
 
 .mma-chat-notice {
   text-align: center;
