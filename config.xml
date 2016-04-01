@@ -5,10 +5,10 @@
         id        = "com.moodle.myapp"
         versionCode = "2"
         version   = "1.1">
-    <name>Suman Moodle</name>
+    <name>Education</name>
 
     <description>
-        New Learn Moodle
+        New Education over here
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
