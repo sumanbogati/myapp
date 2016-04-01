@@ -21366,6 +21366,6 @@ angular.module('mm.core')
     "demo_sites": {},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://suman.moodlehub.com"
+    "siteurl": "http://meenakshi.moodlehub.com"
 }
 );
